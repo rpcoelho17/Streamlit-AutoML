@@ -1,0 +1,19 @@
+Extra Trees Regressor	"1,065.8767"	"2,203,216.3146"	"1,484.3235"	0.7092	0.2591	0.2444
+0	Extra Trees Regressor	"1,065.2356"	"2,193,459.3162"	"1,481.0332"	0.7105	0.2586
+
+df_final4
+             Model       MAE          MSE      RMSE      R2   RMSLE    MAPE
+0  CatBoost Regressor  443.2239  768272.1913  876.5114  0.9146  1.6558  0.1105
+
+df_final4
+No lag columns:
+0	Light Gradient Boosting Machine	494.7961	"906,145.9972"	951.917	0.8993	1.6016	0.1229
+
+TrainBench_V2
+0	CatBoost Regressor	401.6637	"668,390.2044"	817.5513	0.9257	1.6057	0.0978
+
+TrainBench_V2  Optuna  tpe
+0	CatBoost Regressor	401.6637	"668,390.2044"	817.5513	0.9257	1.6057	0.0978
+
+TrainBench_V3 Scikit-Optimize Bayesian:
+Light Gradient Boosting Machine	395.3963	"822,248.5692"	906.7792	0.9089	1.1014	0.0965
